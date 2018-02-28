@@ -1,0 +1,3 @@
+For digit - python digit_recognition.py
+For letter - python letter_recognition.py
+For Android - python hr_py.py then install app_debug.apk in your phone, open app, draw digit and click Predict
